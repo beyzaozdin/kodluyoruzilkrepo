@@ -18,4 +18,3 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
-![Project img](https://www.google.com/imgres?imgurl=https%3A%2F%2Fekmekvegul.net%2Ffiles%2Feditor%2Fgunun-portresi-bilgisayar-programcisi-ilk-kadin-ada-lovelace_0_RnI1.jpeg&tbnid=cB6tGEbXrdY3BM&vet=12ahUKEwiD89OO4_L-AhVXNewKHYQpAy4QMygAegUIARC9AQ..i&imgrefurl=https%3A%2F%2Fekmekvegul.net%2Fbellek%2Fgunun-portresi-bilgisayar-programcisi-ilk-kadin-ada-lovelace&docid=hQOto837BfvhoM&w=900&h=600&q=ilk%20kad%C4%B1n%20yaz%C4%B1l%C4%B1mc%C4%B1&ved=2ahUKEwiD89OO4_L-AhVXNewKHYQpAy4QMygAegUIARC9AQ)
